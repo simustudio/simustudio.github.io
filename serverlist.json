@@ -23,6 +23,6 @@
     ],
     "server": "http://www.simu.studio/api/v1",
     "image": "http://image.simu.studio",
-    "console": "http://www.simu.studio/process"
+    "console": "http://www.simu.studio"
   }
 }
