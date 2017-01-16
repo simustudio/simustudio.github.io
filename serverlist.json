@@ -1,21 +1,11 @@
 {
-    "test": {
+  "test": {
     "imgdb": [
       "http://imgdb.simu.studio"
     ],
-    "server": "http://www.simu.studio:6400/api/v1",
+    "server": "http://daemon01.simu.studio/api/v1",
     "image": "http://image.simu.studio",
-    "console": "http://www.simu.studio/process"
-  },
-  "v2.3": {
-    "imgdb": [
-      "http://imgdb1001.simu.studio",
-      "http://imgdb1002.simu.studio",
-      "http://imgdb1003.simu.studio"
-    ],
-    "server": "http://www.simu.studio/api/v1",
-    "image": "http://image.simu.studio",
-    "console": "http://www.simu.studio/process"
+    "console": "http://daemon01.simu.studio/process"
   },
   "v2.4": {
     "imgdb": [
