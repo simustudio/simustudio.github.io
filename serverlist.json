@@ -3,9 +3,9 @@
     "imgdb": [
       "http://imgdb.simu.studio"
     ],
-    "server": "http://daemon01.simu.studio/api/v1",
+    "server": "http://daemon01.simu.studio:9000/api/v1",
     "image": "http://image.simu.studio",
-    "console": "http://daemon01.simu.studio/process"
+    "console": "http://daemon01.simu.studio:9000/process"
   },
   "v2.4": {
     "imgdb": [
