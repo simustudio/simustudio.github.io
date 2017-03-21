@@ -9,8 +9,7 @@
   },
   "v2.4": {
     "imgdb": [
-      "http://imgdb.simu.studio",
-      "http://imdba.simu.studio"
+      "http://imgdb.simu.studio"
     ],
     "server": "http://www.simu.studio/api/v1",
     "image": "http://image.simu.studio",
