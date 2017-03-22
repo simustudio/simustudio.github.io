@@ -1,11 +1,11 @@
 {
   "test": {
     "imgdb": [
-      "http://imgdb.simu.studio"
+      "http://imgdbc.simu.studio"
     ],
-    "server": "http://daemon01.simu.studio:9000/api/v1",
+    "server": "http://www.simu.studio/api/v1",
     "image": "http://image.simu.studio",
-    "console": "http://daemon01.simu.studio:9000/process"
+    "console": "http://www.simu.studio"
   },
   "v2.4": {
     "imgdb": [
