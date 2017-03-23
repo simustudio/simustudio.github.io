@@ -1,7 +1,7 @@
 {
   "test": {
     "imgdb": [
-      "http://imgdb.simu.studio"
+      "http://aries.dbnode.simu.studio"
     ],
     "server": "http://www.simu.studio/api/v1",
     "image": "http://image.simu.studio",
