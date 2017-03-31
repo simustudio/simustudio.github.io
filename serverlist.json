@@ -9,7 +9,7 @@
   },
   "usa": {
     "imgdb": [
-      "http://imgdbc.simu.studio"
+      "http://dbnode.simu.studio"
     ],
     "server": "http://www.simu.studio/api/v1",
     "image": "http://image.simu.studio",
@@ -17,7 +17,7 @@
   },
   "v2.4": {
     "imgdb": [
-      "http://aries.dbnode.simu.studio"
+      "http://dbnode.simu.studio"
     ],
     "server": "http://www.simu.studio/api/v1",
     "image": "http://image.simu.studio",
