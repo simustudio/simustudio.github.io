@@ -19,7 +19,6 @@
   },
   "v2.4": {
     "imgdb": [
-      "http://taurus.dbnode.simu.studio",
       "http://gemini.dbnode.simu.studio",
       "http://cancer.dbnode.simu.studio"
     ],
