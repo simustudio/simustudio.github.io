@@ -4,7 +4,7 @@
       "http://recognize.simu.studio"
     ],
     "server": "http://www.simu.studio/api/v1",
-    "image": "http://image.simu.studio",
+    "image": "http://imglib.simu.studio",
     "console": "http://www.simu.studio"
   },
   "eu": {
