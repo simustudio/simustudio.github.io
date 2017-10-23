@@ -7,15 +7,7 @@
     "image": "http://imglib.simu.studio",
     "console": "http://www.simu.studio"
   },
-  "eu": {
-    "imgdb": [
-      "http://recognize.simu.studio"
-    ],
-    "server": "http://www.simu.studio/api/v1",
-    "image": "http://imglib.simu.studio",
-    "console": "http://www.simu.studio"
-  },
-  "v2.4": {
+  "v2.5": {
     "imgdb": [
       "http://recognize.simu.studio"
     ],
